@@ -23,6 +23,10 @@
 12. [©️ Credits](#-credits)
 13. [📜 License](#-license)
 
+## 🚀 Accompanied Pharmacy system
+
+Link to parallel Pharmacy Repo : https://github.com/Youssof-Kandil/El7a2ny-Pharmacy/
+
 ## 🚀 Motivation
 
 Welcome to Copilot & Sons El7a2ny Clinic, a cutting-edge virtual clinic management software. This project is driven by the vision to enhance the healthcare experience for clinics, doctors, and patients by introducing a comprehensive platform that simplifies and automates key interactions within the healthcare ecosystem.
